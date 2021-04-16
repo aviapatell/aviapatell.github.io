@@ -22,7 +22,7 @@
 
 <h1 style="text-align: center;font-family:signpainter;">Thanks for visiting!</h1>
   
-<body bgcolor="8EF4FD">
+<body style="background-color:#FFDFE5;">
 
 </body>
 
