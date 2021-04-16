@@ -2,14 +2,15 @@
   <h1 style="text-align:center;font-family:signpainter;">My name is Avi Patel</h1>
   <h1 style="text-align:center;font-family:heiti sc;">WELCOME TO MY WEBSITE!</h1>
   
-   <center><img src="https://i.imgur.com/kPRGWJ4.jpg" width="437" height="657" class="center">
+<center><img src="https://i.imgur.com/kPRGWJ4.jpg" width="437" height="657" class="center">
   
 
-    <b><h1 style="text-align:center;font-family:signpainter;font-style:bold;> align="center">ABOUT ME</h1>
+<b><h1 style="text-align:center; font-family:signpainter; font-style:bold;"> ABOUT ME </h1>
+
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
   I am a freshman at the University of Texas at Austin majoring in Finance with a minor in Spanish. I grew up in Murphy, TX (Northeast of Dallas) with my parents and my younger brother Om. I love my family, friends, playing Overwatch, politics, Roman Military History, and Civil War History! 
   
-   <center><img src="https://i.imgur.com/v9Ogc0H.jpg" width="800" height="600"/>
+<center><img src="https://i.imgur.com/v9Ogc0H.jpg" width="800" height="600"/>
   
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
   Normally, I love to stay in bed and play video games or watch YouTube. In the rarity I do get up, I enjoy going to random buildings around campus and finding quiet spots to grind out schoolwork. My favorite food is easily Mexican Food, but Chuy's creamy jalapeño sauce is probabaly the best food item I've ever tasted in my life. Give me a good fantasy book and I will read it nonstop for hours until I finish it. </p>
@@ -20,7 +21,7 @@
 
 <h1 style="text-align: center;font-family:signpainter;">Thanks for visiting!</h1>
   
-<body bgcolor="#CAF7FB">
+<body bgcolor="CAF7FB">
 
 </body>
 
