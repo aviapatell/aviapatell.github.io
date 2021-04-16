@@ -1,4 +1,4 @@
-<html>
+
   <h1 style="text-align:center;font-family:signpainter;">My name is Avi Patel</h1>
   <h1 style="text-align:center;font-family:heiti sc;">WELCOME TO MY WEBSITE!</h1>
   
